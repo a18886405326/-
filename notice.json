@@ -1,0 +1,7 @@
+{
+  "version_code": 3000,
+  "title": "📢 公告：远程弹窗已上线",
+  "content": "通过服务器控制弹窗内容，欢迎体验！\n点击下方按钮了解更多。",
+  "button_text": "了解更多",
+  "button_link": "https://www.example.com"
+}
