@@ -1,0 +1,9 @@
+{
+  "version_code": 1,
+  "is_force": false,
+  "title": "📢 新版本通知",
+  "content": "这是一个远程弹窗测试消息。",
+  "button_text": "知道了",
+  "button_link": "",
+  "cancelable": true
+}
